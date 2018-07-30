@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author:   Stephen Bygrave - Moof IT
-# Name:     deleteUsersAtLogout.sh
+# Name:     cleanUsersLogout.sh
 #
 # Purpose:  This script looks though the Users folder, and removes all users
 #           with the exception of a defined list.
