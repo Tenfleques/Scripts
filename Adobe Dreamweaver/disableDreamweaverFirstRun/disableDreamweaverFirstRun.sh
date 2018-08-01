@@ -79,6 +79,3 @@ disableCurrentUser
 disableUserTemplate
 
 writelog "Script completed."
-
-[NEW FEATURE WALKTHROUGH]
-stage 1 done=TRUE
